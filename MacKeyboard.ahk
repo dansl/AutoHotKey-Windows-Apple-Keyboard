@@ -72,6 +72,9 @@ F15::SendInput {Pause}
 ; close tab
 #w::^w
 
+; reload page
+#r::^r
+
 ; Close windows (cmd + q to Alt + F4)
 #q::Send !{F4}
 

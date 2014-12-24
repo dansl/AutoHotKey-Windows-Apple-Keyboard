@@ -69,6 +69,9 @@ F15::SendInput {Pause}
 ; New tab
 #t::^t
 
+; Undo Tab
+#+T::^+t
+
 ; close tab
 #w::^w
 
